@@ -3,7 +3,6 @@
 To create true value for real estate buyers by saving their time, energy and money while searching for their desired property and enabling them make right choice by presenting properties after thorough analysis of real estate and market dynamics affecting them.
 
 ## Website Development and Structure 
-#Website-Dev-Structure
 
 ### Phase 1 : Constructuing Super Structure / Layout / Workflow of Website.
 Objective: Get relevant content uploaded on website  and share their details for using our consulting services for buying property. 
@@ -14,7 +13,7 @@ Objective: Get relevant content uploaded on website  and share their details for
     5.Developing API.
     6.Developing Simple Analysis form / tool. (Optional)
 
-### Phase 2 : Employee Login and internal dashboard.
+### [Phase 2](#Phase-2) : Employee Login and internal dashboard.
 Objective: 
     1. To verify / upload deatils of property availible for sale.
     2. To manage lead.
@@ -57,4 +56,11 @@ Objective:
     2. Currently we are focusing only of sale and purchase of properties need capabilities to add rental properties as well. 
     3. As of today, we don’t see a need for a payment gateway as all transactions are done offline. 
     4. Ability to integrate other related services such as home loan, interior designing, construction services. 
+
+## Phase 2
+Objective 
+1
+2
+3
+
 
