@@ -59,11 +59,15 @@ Objective:
 ***
 
 ### [Phase 6](#Phase-6) : Final Testing and Deployment.
-Objective:
->    1. Testing each and every portion of website manually as Admininstator and also as Client.
->    2. Micro and Large testing.
->    3. API Testing.
->    4. Searching ,  Sorting , Recommendation testing.
+Objective:  Check Website Objectives are meeting and Ease in Using Interface and System.
+>    1. Emphasis on Cross-Browser Compatibility Testing.  
+>    2. Evaluate the Application’s Performance Under Various Conditions.  
+>    3. Choose the Right Parameters for Usability Testing.   
+>    4. Validate all Security Issues with Security Testing.  
+>    5. Integrate Exploratory Testing in the Software Development Lifecycle.  
+>    4. API Testing.
+>    5. Searching ,  Sorting , Recommendation testing.
+>    6. Testing each and every portion of website manually as both Admininstator and Client perspective.
 
 ***
 
@@ -101,9 +105,9 @@ Objective:
 >    c. Defining Fields for particular Data Models.  
     
 4.API  
-    a. Integrate API with Database for  
-        i. Leads Upload / Download / Analysis - Bulk Upload  
-        ii. Inventory  Upload / Download / Analysis - Bulk Upload  
+>    a. Integrate API with Database for  
+>>        i. Leads Upload / Download / Analysis - Bulk Upload  
+>>       ii. Inventory  Upload / Download / Analysis - Bulk Upload  
 
 ***
 
@@ -122,7 +126,7 @@ Objective:
 >>        j. Analysis of Leads , Properties , Site Visit and client information like origin etc.  
 >>        k. Admin rights to create user/password.  
 >>        l. Add New Leads.  
->>       m. Lead Call Reminder. (Future in Android App development)  
+>>        m. Lead Call Reminder. (Future in Android App development)  
   
 ***
   
@@ -153,15 +157,60 @@ Objective:
 ***
   
 ## Phase 5  
-a. Analytical feature to measure traffic   
-        b. SEO tools   
-h. Meta tag capability – like wordpress   
-        i. Twitter card – options   
-        j. Yoast functionality   
-        k. Speed – issue   
+### keys features 
+>        a. Analytical feature to measure traffic.  
+>        b. Defining Advance Search Algorithm.  
+>        c. Defining Advance Sorting Algorithms.  
+>        d. Defining Optimized Filter function.    
+>        e. Meta tag capability – like wordpress    
+>        f. Twitter card – options    
+>        g. Yoast functionality    
+>        h. Speed – issue    
+>        i. SEO Tools   
+>        j. Optimize SEO  
+>>             i. Align Your Content with Search Intent  
+>>             ii. Write a Compelling Title Tag and Meta Description  
+>>             iii. Optimize Your Images  
+>>             iv. Optimize Your Page Speed   
+>>             v. Use Internal Linking   
+>>             vi. Improve the User Experience on Your Website  
+>>             vii. Include Keywords in Your URL  
+>>             viii. Focus on Getting More Authoritative Backlinks  
+>>             ix. Publish Long-form Content  
+
+
   
 ***
   
 ## Phase 6  
-  
+### Keys Questions
+>       1. Functionality testing:  
+
+This step ensures that the functionalities of a web application are properly functioning or not. Functional testing takes place in the source code.  
+Functionality testing includes:  
+> – Determining the data input and entry  
+> – Test case execution  
+> – Functions need to be properly identified because the software runs effectively through the integration of functions  
+> – Actual results must be analysed  
+
+>2. Usability testing:  
+
+This testing type focuses on how user experiences while using a particular web application. Efforts are put in to ensure that the application is built in-line with user needs. This testing method makes it a point to see that a user is able to easily navigate through the various functions of an application. The content that is displayed in the web application must also be clearly visible.
+
+>3. Interface testing:  
+
+This testing method ensures that the three main components of a web application which are web server, web browser and database are running harmoniously. This testing type checks whether there is any interruption while the data is being transferred. Upon that, the communication taking place between various interfaces is also thoroughly checked.
+
+>4. Compatibility testing:  
+
+This testing methodology ensures that a particular web application is compatible with all browsers. Compatibility testing takes place at three levels which are browser compatibility, operating system compatibility and device compatibility.
+
+>5. Performance testing:  
+
+In here, a specific web application is tested in terms of how better it can perform under stress conditions and heavy load. How the application is able to perform under different internet speeds, networks and browsers are also worked upon. Stress testing is one form of testing which is used to determine what amount of stress a web application can go through until it ceases to function. Also, how an application performs when it is running through various hardware configurations and what are the mechanisms that need to be strategized in order to prevent the application from crashing. All the above-mentioned aspects are thoroughly scrutinized and tested under the ambit of performance testing.
+
+>6. Security testing:  
+
+The final and most important step of testing a web application is Security testing. When a web application is being built, there is a lot of data that is being used and stored. Some of this data can be sensitive and needs to be protected at any cost, failure of which can cause a lot of technical issues for a web application to function properly. In order to fully secure these types of mission-critical data, security testing is implemented. 
+
 ***
