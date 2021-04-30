@@ -10,19 +10,19 @@ To create true value for real estate buyers by saving their time, energy and mon
 
 ### [Phase 1](#Phase-1) : Constructuing Super Structure / Layout / Workflow of Website.
 Objective: Get relevant content uploaded on website  and share their details for using our consulting services for buying property.  
->1.Developing Site Map / UI / Workflow.  
->2.Developing Product Page.  
->3.Developing Home Page.  
->4.Developing Blog Post.  
->5.Developing Database.  
->6.Developing API.  
->7.Developing Simple Analysis form / tool. (Optional)  
+> 1. Developing Site Map / UI / Workflow.  
+> 2. Developing Product Page.  
+> 3. Developing Home Page.  
+> 4. Developing Blog Post.  
+> 5. Developing Database.  
+> 6. Developing API.  
+> 7. Developing Simple Analysis form / tool. (Optional)  
  
  ***
 
 ### [Phase 2](#Phase-2) : Employee Login and internal dashboard.
 Objective: 
->1. To verify / upload deatils of property availible for sale.
+> 1. To verify / upload deatils of property availible for sale.
 >   2. To manage lead.
 >    3. To Create particular client Recommendation Portfolio and property details.
 >    4. Analysis of leads , site visits and properties.
@@ -43,9 +43,9 @@ Objective:
 
 ### [Phase 4](#Phase-4) : Beta launch and Testing Logic / Workflow and common functionalities of Website and User Experience Improvement.
 Objective:
->    1.Testing common logics of Webiste like login pages etc.
->    2.Tesing common functionalities like Searching , Viewing etc.
->    3.Tesing common inputs by user.
+>    1. Testing common logics of Webiste like login pages etc.  
+>    2. Tesing common functionalities like Searching , Viewing etc.  
+>    3. Tesing common inputs by user.  
 
 ***
 
@@ -78,89 +78,90 @@ Objective:
 
 ## Phase 1
 ### Key Features Phase 1: 
-1.Site Map
-    a. Home .
-    b. Product Page . 
-    c. Search / Filter Page.
-    d. Client Login and 
-    e. Client Dashboard page.
-    f. Client Shortlisted Property/Projects Page.
-    g. Employee Login.
-    h. Employee Dashboard.
-    i. Inventory Upload / Edit page.
-    j. Lead Upload / Edit page.
-    k. Admin Dashboard.
-2. Database
-    a.Data Model for
-        i. Product.
-        ii. Lead.
-        iii. Inventory.
-    b. Basic Functions for Data Models.
-        i.
-    c. Defining Fields for particular Data Models.
+1.Site Map  
+>    a. Home .  
+>    b. Product Page .   
+>    c. Search / Filter Page.  
+>    d. Client Login .  
+>    e. Client Dashboard page.  
+>    f. Client Shortlisted Property/Projects Page.  
+>    g. Employee Login.  
+>    h. Employee Dashboard.  
+>    i. Inventory Upload / Edit page.  
+>    j. Lead Upload / Edit page.  
+>    k. Admin Dashboard. 
     
-4.API
-    a. Integrate API with Database for
-        i. Leads Upload / Download / Analysis - Bulk Upload
-        ii. Inventory  Upload / Download / Analysis - Bulk Upload
+2. Database  
+>    a. Data Model for    
+>>        i. Product.    
+>>        ii. Lead.  
+>>        iii. Inventory.  
+>    b. Basic Functions for Data Models.  
+>>        i.  
+>    c. Defining Fields for particular Data Models.  
+    
+4.API  
+    a. Integrate API with Database for  
+        i. Leads Upload / Download / Analysis - Bulk Upload  
+        ii. Inventory  Upload / Download / Analysis - Bulk Upload  
 
 ***
 
-## Phase 2
-### Key Features Phase 2:
-1. Dashboard for
-        ~a. Upload content – CMS.
-        b. Login Page.
-        c. Functionality to select multiple properties / Projects and share details via Whatsapp / mail.
-        d. Form for lead capture and leads in excel download.
-        e. Project information Edit / upload via excel or Manually from Employee Portal.
-        f. Project images – bulk upload.
-        g. Project videos – bulk upload.
-        h. Access to Write a Blog post / News Article.
-        i. Create to Tour for Particular client.
-        j. Analysis of Leads , Properties , Site Visit and client information like origin etc.
-        k. Admin rights to create user/password.
-        l. Add New Leads.
-        m. Lead Call Reminder. (Future in Android App development)
-
+## Phase 2  
+### Key Features Phase 2:  
+>1. Dashboard for  
+>>        a. Upload content – CMS.  
+>>        b. Login Page.  
+>>        c. Functionality to select multiple properties / Projects and share details via Whatsapp / mail.  
+>>        d. Form for lead capture and leads in excel download.  
+>>        e. Project information Edit / upload via excel or Manually from Employee Portal.  
+>>        f. Project images – bulk upload.  
+>>        g. Project videos – bulk upload.  
+>>        h. Access to Write a Blog post / News Article.  
+>>        i. Create to Tour for Particular client.  
+>>        j. Analysis of Leads , Properties , Site Visit and client information like origin etc.  
+>>        k. Admin rights to create user/password.  
+>>        l. Add New Leads.  
+>>       m. Lead Call Reminder. (Future in Android App development)  
+  
 ***
-
-## Phase 3
-### Key Features Phase 3
-1. Dashboard for
-    a. Watch Shortlisted projects / properties.
-    b. Expert Recommendation.
-    c. Schedule /  Reschedule Site Visits or Tour.
-    d. Login Page with login/sign up with phone number only.
-    e. Limited properties walkthrough without login.
-    f. In Depth View of Product page.
+  
+## Phase 3  
+### Key Features Phase 3   
+>1. Dashboard for  
+>>    a. Watch Shortlisted projects / properties.  
+>>    b. Expert Recommendation.  
+>>    c. Schedule /  Reschedule Site Visits or Tour.  
+>>    d. Login Page with login/sign up with phone number only.  
+>>    e. Limited properties walkthrough without login.  
+>>    f. In Depth View of Product page.  
      
 ***
 
-## Phase 4
-Key Questions
-        a. Server requirement – AWS LightSeil .
-        b. Hosting package .
-        c. Asset ownership – code and anything else 
-        d. Testing of every micro/unit functions.
-        e. Testing of Search and Filter functionalities.
-        f. Feedback.
-        Technology: 
-            i. Mobile app – Flutter (Future) 
-            ii. Django – Python Framework 
-
+## Phase 4  
+### Key Questions  
+>        a. Server requirement – AWS LightSeil .  
+>        b. Hosting package .  
+>        c. Asset ownership – code and anything else   
+>        d. Testing of every micro/unit functions.  
+>        e. Testing of Search and Filter functionalities.  
+>        f. Feedback.  
+>        Technology:   
+>>            i. Mobile app – Flutter (Future)   
+>>            ii. Django – Python Framework   
+  
 ***
-
-## Phase 5
-a. Analytical feature to measure traffic 
-        b. SEO tools 
-h. Meta tag capability – like wordpress 
-        i. Twitter card – options 
-        j. Yoast functionality 
-        k. Speed – issue 
-
+  
+## Phase 5  
+a. Analytical feature to measure traffic   
+        b. SEO tools   
+h. Meta tag capability – like wordpress   
+        i. Twitter card – options   
+        j. Yoast functionality   
+        k. Speed – issue   
+  
 ***
-
-## Phase 6
-
+  
+## Phase 6  
+  
 ***
