@@ -84,6 +84,7 @@ Objective:
 ### Key Features Phase 1: 
 1.Site Map  
 >    a. Home .  
+>>    i.Crazy Deals Column   
 >    b. Product Page .   
 >    c. Search / Filter Page.  
 >    d. Client Login .  
